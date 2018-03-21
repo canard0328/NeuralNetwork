@@ -1,3 +1,3 @@
 # NeuralNetwork
 
-This is extreamly simple multilayer perceptron written in C#.
+This is an extreamly simple multilayer perceptron written in C#.
